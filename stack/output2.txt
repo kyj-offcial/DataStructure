@@ -1,0 +1,3 @@
+Top numbers: 3 6 9 4 5 20 29 7 5 35 64 
+Calculating Done!
+evaluation result: 64
