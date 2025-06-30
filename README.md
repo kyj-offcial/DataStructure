@@ -4,9 +4,9 @@ Stack, Queue, Tree 등등 자료구조와 관련된 코드들을 모아놓았습
   
 # 환경 세팅
   
-C or C++
+C or C++  
 ubuntu 20.04.6 LTS  
-gcc 6.3.0 
+gcc 6.3.0  
 
 # 실행 방법(wsl내에서 해주세요)
   
@@ -14,10 +14,10 @@ gcc 6.3.0
     cd folderPath  
   
 2. 컴파일해서 실행파일(myProject) 만들기  
-    - C파일
+    - C파일  
         gcc -o myProject myProject.c  
-    - C++파일
-        g++ -o myProject myProject.cc
+    - C++파일  
+        g++ -o myProject myProject.cc  
   
 3. 실행하기  
     - 출력창 터미널에 출력  
